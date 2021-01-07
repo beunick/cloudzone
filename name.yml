@@ -1,1 +1,2 @@
-first-name: ['Blacky', 'Enry', 'Joker']
+firstName: 
+  value: ['Blacky', 'Enry', 'Joker']
